@@ -1,7 +1,7 @@
 {
     "workshop": {
-        "title": "Workshop Title",
-        "description": "Description of this workshop.",
+        "title": "Oracle: Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE",
+        "description": ".",
         "theme": "default",
         "interactive":"https://launch.oracle.com/?",
         "labs": [
