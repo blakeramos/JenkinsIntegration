@@ -3,14 +3,12 @@ Updated: Date
 
 ## Introduction
 
-Introductory Text
-
-**_To log issues_**, click here to go to the [github oracle](https://github.com/oracle/learning-library/issues/new) repository issue submission form.
+This part of the lab will help you create and configure the webhooks that will allow our external Jenkins server and Oracle Autonomous Developer Cloud project to communicate. __Congrats! You are almost done!!!!!__
 
 ## Objectives
 
-- Objective 1
-- Objective 2
+- Configure Webhooks
+- Track Builds
 
 ## Required Artifacts
 
