@@ -16,28 +16,28 @@
                 "number": "100",
                 "filename": "LabGuide100.md",
                 "title": "Lab 100: Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE.",
-                "description": ""
+                "description": "This is the first of several labs that are part of the Oracle Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE."
 
             },
             {
                 "number": "200",
                 "filename": "LabGuide200.md",
                 "title": "Lab 200: Setup GIT with IntelliJ IDE",
-                "description": ""
+                "description": "Configure IntelliJ IDE with Developer Cloud Service Git"
 
             },
             {
                 "number": "300",
                 "filename": "LabGuide300.md",
                 "title": "Lab 300: Configure and deploy Jenkins Server",
-                "description": ""
+                "description": "Configre and deploy a local Jenkins Server"
 
             },
             {
                 "number": "400",
                 "filename": "LabGuide400.md",
                 "title": "Lab 400: Configure Webhooks",
-                "description": ""
+                "description": "Configuring two different webhooks within Oracle Developer Cloud Service"
 
             }
 
