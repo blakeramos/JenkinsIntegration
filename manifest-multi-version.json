@@ -136,7 +136,7 @@
             {
                 "number": "100",
                 "filename": "LabGuide100.md",
-                "title": "Lab 100: Agile Project Management",
+                "title": "Lab 100: Creating an Autonomous Developer Cloud Service Instance",
                 "description": "SS: Use Developer Cloud Service to create issues, tasks, and sprints",
                 "labels": {
                     "version": "Virtual Workshop"
