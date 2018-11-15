@@ -14,7 +14,7 @@ This is the first of several labs that are part of the **Oracle Integrating Orac
 
 ### Create an Autonomous Developer Cloud Service instance:
 * Go to [Oracle Cloud Service](https://cloud.oracle.com/home) homepage.
-![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/cloud.oracle.png)
+![](a1screeenshots/cloud.oracle.png)
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.37.06%20PM.png)
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.38.55%20PM.png)
 ![alt text](https://github.com/blakeramos/JavaWebApp/blob/master/a1screeenshots/Screen%20Shot%202018-10-29%20at%202.39.12%20PM.png)
