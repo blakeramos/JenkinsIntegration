@@ -47,5 +47,7 @@ This should give you the path to your git executable.
 * __Commit__ and __push__ your changes. Once that is complete go back to your Autonomous DevCS project, click 'project' on the left hand side and see that your changes have been committed. 
 ![](a1screeenshots/Screen%20Shot%202018-10-30%20at%208.56.22%20AM.png)
 ![](a1screeenshots/Screen%20Shot%202018-10-30%20at%208.56.35%20AM.png)
+![](a1screeenshots/Screen%20Shot%202018-10-30%20at%208.56.35%20AM.png)
+
 
 * __NOTE__: Go back to your Autonomous Developer Cloud Service project, go to the sidebar to confirm you are in project. You should see that your changes from IntelliJ have been recognized. You should also be able to see the changes in the 'code' section. 
