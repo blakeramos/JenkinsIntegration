@@ -1,11 +1,25 @@
-# Name Of The Workshop
+# Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE
 
-Welcome to the ...workshop. This workshop will walk you through the process of... 
-To learn more about this workshop please watch the video below.
+Welcome to the Integrating Oracle DevCS with external Jenkins Server and IntelliJ IDE workshop. This workshop will walk you through the process of connecting and configuring an external Jenkins server with Oracle Developer Cloud Service. You also have the ability to use IntelliJ IDE to commit, push, and pull from Oracle's Developer Cloud Service. 
 
-![](images/oraclecode/youtube.png)
+## What is Jenkins and why is it important?
+* Jenkins is a server that allows for continuous integration and continuous development. A few features include regular deployment, daily backups, weekly cleanups, vulnerability scans, workflow environment, and the list goes on. 
+* Easy installation
+* Hundreds of plugins that allows Jenkins to integrate with practically every tool in the CI/CD delivery toolchain. 
+* Distributed: Ability to work across multiple machines helping to drive test/deployment across multiple platforms faster. 
+* [Companies that use Jenkins](https://wiki.jenkins.io/pages/viewpage.action?pageId=58001258)
 
-<a href="https://youtu.be/" target="_video">Workshop Overview</a>
+## What is IntelliJ IDEA?
+* Java IDE that is designed to maximize developer productivity. 
+* Built-in tools and supported frameworks.
+* [Companies that use IntelliJ](https://www.jetbrains.com/company/customers/)
+
+
+## Getting Started
+What you will need:
+* Oracle Cloud Trial Account
+* IntelliJ IDE
+* Jenkins
 
 ### **Step 1**: Acquire an Oracle Cloud Trial or Workshop Account
 
